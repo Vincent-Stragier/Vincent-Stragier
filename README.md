@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent-Stragier
 - 👀 I’m interested in sciences, artificial intelligence, embedded hardware and software, etc.
-- 🌱 I’m currently learning about interactive agent built using natural understanding models.
+- 🌱 I’m currently learning about interactive agent built using large language models.
 - 💞️ I’m looking to collaborate on any open source project related to my subjects of interest.
 - 📫 You can reach me using my email address: vincent.stragier97+ghprofile@gmail.com
 
